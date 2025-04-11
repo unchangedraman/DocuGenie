@@ -1,4 +1,4 @@
-# DocuGenie API Documentation
+# LexiAI API Documentation
 
 ## Table of Contents
 - [Authentication](#authentication)
